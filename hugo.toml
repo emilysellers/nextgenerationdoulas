@@ -1,0 +1,11 @@
+baseURL = 'https://nextgenerationdoulas.org/'
+languageCode = 'en-us'
+title = 'Next Generation Doulas'
+
+enableRobotsTXT = true
+paginate = 10
+summaryLength = 0
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
